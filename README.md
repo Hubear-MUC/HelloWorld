@@ -5,13 +5,18 @@ A small program saying hello to the world.
 
 See "readme.txt" for details.
 
-Code space: 52 bytes.
+Code space: 53 bytes.
 
 
 ---------------
 
 Version History:
 ----------------
+
+Version 1.3
+
+Placed the printf()- call in a separate line to make the code easier to read and to maintain.
+
 
 Version 1.2
 
