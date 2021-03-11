@@ -1,4 +1,4 @@
-Hello World 1.2
+Hello World 1.3
 ---------------
 
 This program states a "Hello World"- message on the screen when invoked in a terminal.
@@ -9,6 +9,11 @@ Just invoke the program.
 
 Version History:
 ----------------
+
+Version 1.3
+
+Placed the printf()- call in a separate line to make the code easier to read and to maintain.
+
 
 Version 1.2
 
