@@ -5,13 +5,19 @@ A small program saying hello to the world.
 
 See "readme.txt" for details.
 
-Code space: 53 bytes.
+Code space: 62 bytes.
 
 
 ---------------
 
 Version History:
 ----------------
+
+Version 2.0
+
+Made the Output a little bolder with adding Asterisks to it.
+Thus increasing the mayor version number for celebration.
+
 
 Version 1.3
 
