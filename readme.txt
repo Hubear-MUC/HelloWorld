@@ -1,4 +1,4 @@
-Hello World 1.3
+Hello World 2.0
 ---------------
 
 This program states a "Hello World"- message on the screen when invoked in a terminal.
@@ -9,6 +9,13 @@ Just invoke the program.
 
 Version History:
 ----------------
+
+Version 2.0
+
+Made the Output a little bolder with adding Asterisks to it.
+Thus increasing the mayor version number for celebration.
+Besides a "Hello world" program is just supposed to present this message on the screen. Thus a by far more beautiful message means a by far highter version number.
+
 
 Version 1.3
 
