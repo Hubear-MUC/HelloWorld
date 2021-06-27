@@ -1,4 +1,4 @@
-Hello World 2.0
+Hello World 2.1
 ---------------
 
 This program states a "Hello World"- message on the screen when invoked in a terminal.
@@ -9,6 +9,12 @@ Just invoke the program.
 
 Version History:
 ----------------
+
+Version 2.1
+
+Redesigned the code to make it more easily readable and maintainable.
+Redesigned the "Hello world"- message to make it look a bit more spectacular.
+
 
 Version 2.0
 
