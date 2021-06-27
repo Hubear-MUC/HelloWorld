@@ -5,13 +5,19 @@ A small program saying hello to the world.
 
 See "readme.txt" for details.
 
-Code space: 62 bytes.
+Code space: 70 bytes.
 
 
 ---------------
 
 Version History:
 ----------------
+
+Version 2.1
+
+Redesigned the code to make it more easily readable and maintainable.
+Redesigned the "Hello world"- message to make it look a bit more spectacular.
+
 
 Version 2.0
 
