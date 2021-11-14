@@ -5,13 +5,18 @@ A small program saying hello to the world.
 
 See "readme.txt" for details.
 
-Code space: 70 bytes.
+Code extent: 85 bytes.
 
 
 ---------------
 
 Version History:
 ----------------
+
+Version 3.0
+
+Made the "Hello World"- Message a bit bolder and more spectacular once more.
+
 
 Version 2.1
 
