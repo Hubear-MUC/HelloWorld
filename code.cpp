@@ -1,5 +1,2 @@
-#include<stdio.h>
-main()
-{
-printf ("* * *\nHello World.\n* * *\n");
-}
+#include <stdio.h>
+main(){printf ("!-----------!\n!Hello World!\n!-----------!\n");}
